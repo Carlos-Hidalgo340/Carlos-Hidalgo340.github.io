@@ -6,3 +6,9 @@
 
 - Mensajería en Tiempo Real: Envía y recibe mensajes instantáneamente.
 - Fotos de Perfil: Cada usuario puede mostrar su imagen de perfil personalizada.
+
+# 📄 Licencia
+> Este proyecto está bajo la licencia MIT.
+
+# 👤 Autor
+> Desarrollado por **Carlos-Hidalgo340**.
