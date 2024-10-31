@@ -8,7 +8,7 @@
 - Fotos de Perfil: Cada usuario puede mostrar su imagen de perfil personalizada.
 
 # 📄 Licencia
-> Este proyecto está bajo la licencia (MIT)[https://github.com/Carlos-Hidalgo340/Carlos-Hidalgo340.github.io/blob/main/LICENSE].
+> Este proyecto está bajo la licencia [MIT](https://github.com/Carlos-Hidalgo340/Carlos-Hidalgo340.github.io/blob/main/LICENSE).
 
 # 👤 Autor
 > Desarrollado por **Carlos-Hidalgo340**.
