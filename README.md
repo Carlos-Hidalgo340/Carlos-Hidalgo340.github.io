@@ -4,8 +4,8 @@
 
 # 🚀 Características
 
-- Mensajería en Tiempo Real: Envía y recibe mensajes instantáneamente.
-- Fotos de Perfil: Cada usuario puede mostrar su imagen de perfil personalizada.
+- **Mensajería en Tiempo Real**: Envía y recibe mensajes instantáneamente.
+- **Fotos de Perfil**: Cada usuario puede mostrar su imagen de perfil personalizada.
 
 # 📄 Licencia
 > Este proyecto está bajo la licencia [MIT](https://github.com/Carlos-Hidalgo340/Carlos-Hidalgo340.github.io/blob/main/LICENSE).
